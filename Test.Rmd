@@ -2,7 +2,7 @@
 title: "GitHappy Set Up Test"
 author: "Courtney Victor"
 date: "`r Sys.Date()`"
-output: html_document
+output: github_document
 ---
 
 I am inserting code here. 
